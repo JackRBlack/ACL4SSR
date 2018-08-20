@@ -9,14 +9,13 @@
 #
 #**********************************************************************
 
-[bypass_all]
+[bypass_list]
 ### 默认直连 自己可以自定义
+# AddedByJackRBlack
+(^|alt[0-9]{1}-)mtalk.google.com$
 
 #**********************************************************************
 [proxy_list]
-
-# AddedByJackRBlack
-#(^|alt[0-9]{1}-)mtalk.google.com$
 
 # MyList
 (^|\.)apkmirror\.com$
