@@ -15,6 +15,9 @@
 #**********************************************************************
 [proxy_list]
 
+# AddedByJackRBlack
+#(^|alt[0-9]{1}-)mtalk.google.com$
+
 # MyList
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
