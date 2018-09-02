@@ -1311,7 +1311,6 @@
 [proxy_list]
 
 # MyList
-(^|\.)reddit\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
@@ -1393,7 +1392,6 @@
 (^|\.)\w*telegram\w*\.\w*$
 (^|\.)\w*twitter\w*\.\w*$
 (^|\.)\w*whatsapp\w*\.\w*$
-(^|\.)\w*reddit\w*\.\w*$
 
 #GFWList
 (^|\.)(.*)\.2\.bahamut\.com\.tw$
@@ -6753,3 +6751,6 @@
 (^|\.)neulion\.com$
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
+
+#Reddit
+151.101.129.140
