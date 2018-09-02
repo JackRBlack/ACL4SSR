@@ -1311,6 +1311,7 @@
 [proxy_list]
 
 # MyList
+(^|\.)reddit\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
@@ -6752,5 +6753,3 @@
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
 
-#Reddit
-151.101.129.140
